@@ -44,5 +44,5 @@ Om du bruker Linux
 -----------------------------------------------------------------------------------------------
 
 
-*Takk for at du valgte meg til å hjelpe :D 
+Takk for at du valgte meg til å hjelpe :D 
 - Caasi
