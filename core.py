@@ -46,6 +46,5 @@ async def unload(ctx, *, module : str): #  Hvis du vil fjerne en fil fra botten 
     if user.id != 209692111858171904: # Hvis andre folk prøver seg så får de en feil melding 
         await ctx.send("Only ``the owner`` can access this command!")
 
-client.load_extension('algorithm') # Her så sammenkobler den filen "algorithm" med selve kjærnen av botten!
-
+client.load_extension('algorithm') 
 client.run(" ") # Legg til din client.id her!
